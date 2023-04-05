@@ -1,0 +1,5 @@
+3.1.a Abstract is used so you can't make a class animal, and only use it as an interface/extends.
+3.1.b polymorphism is the use of a superclass to provide a interface/abstract class
+             so these other classes require a method
+             public class cat extends animal, or public class dog extends animal. Used for reusability
+3.2.a "The shape interface requires them to both implement the method area"

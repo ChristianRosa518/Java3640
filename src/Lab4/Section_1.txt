@@ -1,0 +1,14 @@
+Question 1:
+my_password
+
+Question 2: 
+Hi my
+name
+
+ is "Tom"
+Music Directory C:\music
+irvana
+evermind
+
+Question 3:
+Instance relies on object data while static doesn't

@@ -1,0 +1,9 @@
+1. we cannot change the length of an array once created in java but can in arraylist.
+2. an abstract class is a super class
+you can't use this class to create a class
+however you can use this class as an extension for another
+class. this makes the extended class require the methods of the extendor.
+3. Polymorphism is  the use of super classes such as an abstract class of animal or
+an interface of Pet.
+dog extends animal, dog interfaces pet. It's used for reusability.
+4. to acheive abstraction, forces classes to use the methods in the interface.
